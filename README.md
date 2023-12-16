@@ -3,5 +3,5 @@
 Title: The Potential of Vectors: Navigating the Landscape of Enterprise ML
 Event: GDGygn_DevFest2023 
 
-[Presentation Slide](https://docs.google.com/presentation/d/1TVgHAeDKUytJYTxVPBr3nbpvhH6mAfrqgTaBWJ5MINo/edit?usp=sharing)
+[Presentation Slide](https://www.canva.com/design/DAF3Ewup4sI/pgMTL3UpFsnU4gBngzHx5w/edit?utm_content=DAF3Ewup4sI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
