@@ -1,0 +1,5 @@
+pandas
+pandasai
+langchain
+fastapi
+uvicorn
